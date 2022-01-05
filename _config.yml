@@ -13,7 +13,7 @@ name                     : &name "Paul Heidekrüger"
 description              : &description "TODO"
 url                      : https://pbhdk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PBHDK/pbhdk.github.io"
+repository               : "pbhdk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Paul Heidekrüger"
   avatar           : "profile.png"
-  bio              : "Computer science student and reserach assistant at TUM"
-  location         : "Location"
+  bio              : "Computer Science Student and Reserach Assistant at TUM"
+  location         : "Munich"
   employer         :
   pubmed           : 
   googlescholar    : 
